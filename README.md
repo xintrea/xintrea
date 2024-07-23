@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everybody!
 
 <!--
 **xintrea/xintrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My GitHub activity:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xintrea&column=3&theme=nord)](https://github.com/xintrea)
 
